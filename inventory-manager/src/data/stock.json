@@ -1,0 +1,46 @@
+{
+  "1": {
+    "type": "Carving",
+    "material": "Flourite",
+    "shape": "Snake",
+    "colour": [
+      "blue", "green", "purple"
+    ],
+    "weight": null,
+    "price": 2150,
+    "available": true
+  },
+  "2": {
+    "type": "Carving",
+    "material": "Flourite",
+    "shape": "Snake",
+    "colour": [
+      "blue", "green", "purple"
+    ],
+    "weight": null,
+    "price": 1950,
+    "available": true
+  },
+  "3": {
+    "type": "Carving",
+    "material": "Flourite",
+    "shape": "Snake",
+    "colour": [
+      "blue", "green", "purple"
+    ],
+    "weight": null,
+    "price": 1950,
+    "available": true
+  },
+  "4": {
+    "type": "Carving",
+    "material": "Flourite",
+    "shape": "Mermaid",
+    "colour": [
+      "blue", "green", "purple"
+    ],
+    "weight": null,
+    "price": 3400,
+    "available": true
+  }
+}
