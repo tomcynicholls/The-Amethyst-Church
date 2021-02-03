@@ -4,9 +4,9 @@
     "material": "Flourite",
     "shape": "Snake",
     "colour": [
-      "blue", "green", "purple"
+      "Blue", "Green", "Purple"
     ],
-    "weight": null,
+    "weight": 100,
     "price": 2150,
     "available": true
   },
@@ -15,7 +15,7 @@
     "material": "Flourite",
     "shape": "Snake",
     "colour": [
-      "blue", "green", "purple"
+      "Blue", "Green", "Purple"
     ],
     "weight": null,
     "price": 1950,
@@ -26,21 +26,20 @@
     "material": "Flourite",
     "shape": "Snake",
     "colour": [
-      "blue", "green", "purple"
+      "Blue", "Green", "Purple"
     ],
     "weight": null,
     "price": 1950,
-    "available": true
+    "available": false
   },
   "4": {
-    "type": "Carving",
-    "material": "Flourite",
-    "shape": "Mermaid",
+    "type": "Specimen",
+    "material": "Grape Agate",
+    "shape": "",
     "colour": [
-      "blue", "green", "purple"
     ],
-    "weight": null,
-    "price": 3400,
+    "weight": 331,
+    "price": 4900,
     "available": true
   }
 }

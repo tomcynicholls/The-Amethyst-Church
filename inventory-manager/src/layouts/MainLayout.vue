@@ -44,12 +44,8 @@ export default {
       leftDrawerOpen: false,
       menuItems: [
         {
-          link: '/view',
-          label: 'View All'
-        },
-        {
-          link: '/addproduct',
-          label: 'Add Product'
+          link: '/inventory',
+          label: 'Inventory'
         },
         {
           link: '/sale',
